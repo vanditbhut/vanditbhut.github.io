@@ -32,7 +32,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 - **Dev Tools**: VS Code, Git  
 
 **Core Competencies**  
-- Problem-solving, Data Analysis, Time Management, Attention to Detail, Communication
+- Problem-solving, Data Analysis, Time Management, Attention to Detail, Communication, High level of adaptability, leadership, Team work
 
 ---
 
@@ -103,8 +103,13 @@ DA-IICT, India (May 2018 - Jun 2022)
 
 ---
 
+## Looking Ahead
+I am currently seeking a data science role where I can apply my technical expertise and analytical skills to address complex business challenges. I am excited to continue learning, growing, and contributing to data-driven projects that drive impactful results.
+
+---
+
 ## 🚀 Get in Touch  
-Feel free to explore my projects and connect with me for any collaboration or career opportunities!
+Feel free to reach out to me via my contact details above to discuss potential opportunities or collaborations. Thank you for visiting my portfolio!
 
 
 
