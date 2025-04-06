@@ -3,7 +3,7 @@ Welcome to my Data Science Portfolio!
 
 # Vandit Bhut
 **Data Science Portfolio**  
-📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vanditbhut/)
+📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
 
 ---
 
@@ -95,7 +95,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 ---
 
 ## 🔗 Contact & Social Links
-- [LinkedIn](https://www.linkedin.com/in/vanditbhut/)  
+- [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
 - Email: vanditbhut12@gmail.com  
 - Phone: +44 739-306-5231
 
