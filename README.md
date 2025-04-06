@@ -1,2 +1,2 @@
-# vandit Bhut
+# Vandit Bhut
 Data Science Portfolio
