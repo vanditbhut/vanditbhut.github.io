@@ -1,0 +1,22 @@
+---
+layout: default
+title: Vandit Bhut
+---
+
+# 👋 Hi, I'm Vandit Bhut!
+
+Welcome to my personal portfolio.
+
+## 💻 Skills
+- HTML / CSS / JavaScript
+- React.js / Node.js
+- Python / Django
+
+## 📁 Projects
+- **Portfolio Website** – You're looking at it!
+- **Cool App** – [GitHub Link](https://github.com/vanditbhut/cool-app)
+
+## 📫 Contact
+- Email: you@example.com
+- GitHub: [vanditbhut](https://github.com/vanditbhut)
+- LinkedIn: [linkedin.com/in/vanditbhut](https://linkedin.com/in/vanditbhut)
