@@ -1,14 +1,16 @@
 # Vandit Bhut
-Welcome to my Data Science Portfolio!
 
-# Vandit Bhut
-**Data Science Portfolio**  
-📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
+Welcome to my portfolio! I am a Data Science graduate with a master's degree from Swansea University, specializing in Data analysis, Machine learning, and Data engineering. I am passionate about transforming raw data into actionable insights and leveraging technical expertise to solve complex business challenges. Below is a summary of my skills, experience, and projects.
 
 ---
 
-## 🧑‍🎓 Summary
-Data Science graduate with a Master’s degree from Swansea University, skilled in data analysis, machine learning, and data engineering. Experienced in collecting and analyzing diverse datasets, developing predictive models, and creating visualizations for data-informed decisions. Proficient in **Python**, **SQL**, **Power BI**, and **AWS**, with hands-on experience in optimizing workflows and implementing ETL pipelines. Seeking a **Data Science** role to leverage technical expertise and analytical skills to address complex business challenges.
+## About Me
+I have experience in collecting, cleaning, and analyzing diverse datasets, developing predictive models, and building data visualizations for data-informed decision-making. I am proficient in Python, SQL, Power BI, and AWS, with hands-on experience in optimizing workflows and implementing ETL pipelines.
+
+---
+
+## Contact Information
+📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
 
 ---
 
@@ -23,14 +25,14 @@ DA-IICT, India (May 2018 - Jun 2022)
 
 ## 🛠️ Skills
 **Technical Skills**  
-- **programming Languages**: Python, SQL (MySQL, PostgreSQL), C, C++, HTML, CSS, JavaScript (Basic)  
+- **Programming Languages**: Python, SQL (MySQL, PostgreSQL), C, C++, HTML, CSS, JavaScript (Basic)  
 - **Data Tools**: Power BI, AWS (S3, Lambda), MongoDB, Jupyter Notebook, Google Colab, GitHub  
 - **Data Engineering**: ETL pipelines, data cleaning, optimization  
 - **Frameworks**: Machine Learning (Scikit-learn, TensorFlow), Data Visualization (Matplotlib, Seaborn)  
 - **Dev Tools**: VS Code, Git  
 
 **Core Competencies**  
-- Problem-Solving, Data Analysis, Time Management, Attention to Detail, Communication
+- Problem-solving, Data Analysis, Time Management, Attention to Detail, Communication
 
 ---
 
