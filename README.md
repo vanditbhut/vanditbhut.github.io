@@ -1,2 +1,2 @@
-# vanditbhut.github.io
+# vandit Bhut
 Data Science Portfolio
