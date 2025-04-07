@@ -13,9 +13,7 @@ I have experience in collecting, cleaning, and analyzing diverse datasets, devel
 ---
 
 ## Contact Information
-<div align="justify"> 
 📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
-<div> 
 
 ---
 
