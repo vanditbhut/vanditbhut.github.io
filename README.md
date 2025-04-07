@@ -46,7 +46,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 ### Web Designer Intern  
 **Midnight Digital Pvt. Ltd., India** (Mar 2023 - Jun 2023)  
 - Improved loading speed and performance on 10+ client websites by cleaning up code and optimizing assets.
-- Delivered web design projects for clients like [ENpower School](https://enpower-school.com/){:target="_blank"} and [IFT](https://indiafuturetycoons.com/){:target="_blank"}, following specific brand and content requirements.
+- Delivered web design projects for clients like ENpower School and IFT, following specific brand and content requirements.
 - Supported junior team members by reviewing their work and sharing basic design and coding techniques.
 
 ### Data Analytics Job Simulation (Online)  
