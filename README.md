@@ -276,11 +276,7 @@ I designed, developed, and evaluated two metaheuristic optimisation algorithms â
 - [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
 - Email: vanditbhut12@gmail.com  
 - Phone: +44 739-306-5231
-- If you'd like to reach out to me, feel free to message me on WhatsApp: [![WhatsApp Logo](images/WhatsApp.svg)](https://upload.wikimedia.org/wikipedia/commons/a/a7/WhatsApp_logo.svg)] [Message me on WhatsApp](https://wa.me/447393065231?text=Hello%20Vandit,%20I%20would%20like%20to%20discuss%20a%20data%20science%20opportunity.)
-
-If you'd like to reach out to me, feel free to message me on <a href="https://wa.me/447393065231?text=Hello%20Vandit,%20I%20would%20like%20to%20discuss%20a%20data%20science%20opportunity.">
-  <img src="images/WhatsApp.svg" alt="WhatsApp Logo" width="17" /> WhatsApp
-</a>
+- If you'd like to reach out to me, feel free to message me on <a href="https://wa.me/447393065231?text=Hello%20Vandit,%20I%20would%20like%20to%20discuss%20a%20data%20science%20opportunity."> WhatsApp </a>
 
 
 ---
