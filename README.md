@@ -1,11 +1,11 @@
 # Vandit Bhut
 
-<div align="justify"> Welcome to my portfolio! I am a Data Science graduate with a master's degree from Swansea University, specializing in Data analysis, Machine learning, and Data engineering. I am passionate about transforming raw data into actionable insights and leveraging technical expertise to solve complex business challenges. Below is a summary of my skills, experience, and projects. <div>
+<p align="justify"> Welcome to my portfolio! I am a Data Science graduate with a master's degree from Swansea University, specializing in Data analysis, Machine learning, and Data engineering. I am passionate about transforming raw data into actionable insights and leveraging technical expertise to solve complex business challenges. Below is a summary of my skills, experience, and projects. <p>
 
 ---
 
 ## About Me
-<div align="justify"> I have experience in collecting, cleaning, and analyzing diverse datasets, developing predictive models, and building data visualizations for data-informed decision-making. I am proficient in Python, SQL, Power BI, and AWS, with hands-on experience in optimizing workflows and implementing ETL pipelines. <div>
+<p align="justify"> I have experience in collecting, cleaning, and analyzing diverse datasets, developing predictive models, and building data visualizations for data-informed decision-making. I am proficient in Python, SQL, Power BI, and AWS, with hands-on experience in optimizing workflows and implementing ETL pipelines. <p>
 
 ---
 
