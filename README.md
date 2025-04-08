@@ -104,22 +104,15 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
 
 ---
 
-
 ## Project: 2 🎬 **Marvel Movie Universe (MCU) Data Analysis**  
 **Date:** December 2024  
 **Tools & Technologies:** Python (Pandas, Matplotlib, Seaborn), AWS S3, AWS Lambda, Jupyter Notebook  
 
----
-
 ### 🧠 **Project Overview:**  
 This project focused on conducting an in-depth data-driven analysis of the **Marvel Cinematic Universe (MCU)** using a modern cloud-based architecture. Leveraging **Python for data processing** and **AWS services for automation and scalability**, the project aimed to uncover patterns and trends across MCU movies spanning **release schedules, character dynamics, and creative influences** such as directors and writers. The outcome was a set of visualized insights that contextualized the evolution of one of the most successful film franchises in history.
 
----
-
 ### 👨‍💻 **My Role:**  
 As the sole analyst and developer, I led the **end-to-end data pipeline** from automated data retrieval and transformation to visualization and storytelling, showcasing full-stack data analysis skills and cloud integration.
-
----
 
 ### 🛠️ **Key Technical Contributions:**
 
@@ -136,25 +129,14 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
 
 - **Scheduling & Monitoring:**
   - Implemented **cloud automation** via AWS EventBridge to schedule Lambda functions, ensuring regular and reliable updates to the dataset.
-    
----
 
 ### 📊 **Impact & Insights:**
 
-- 📅 **Release Acceleration:**  
-  A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
-
-- 🎭 **Character Popularity & Dynamics:**  
-  Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
-
-- 💰 **Box Office Evolution:**  
-  Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
-
-- 🧑‍🤝‍🧑 **Team-Based Character Clusters:**  
-  Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
-
-- 🧪 **Use Case for Data-Driven Storytelling:**  
-  Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
+- 📅 **Release Acceleration:** A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
+- 🎭 **Character Popularity & Dynamics:** Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
+- 💰 **Box Office Evolution:** Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
+- 🧑‍🤝‍🧑 **Team-Based Character Clusters:** Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
+- 🧪 **Use Case for Data-Driven Storytelling:** Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
 
 ---
 
@@ -162,17 +144,11 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
 📅 **Duration:** July 2024 – September 2024  
 🔧 **Tech Stack:** Python, TensorFlow, Keras, Scikit-learn, NumPy, Matplotlib, CIFAR-100
 
----
-
 ### **Project Overview:**  
 As part of my MSc in Data Science, this project focused on applying and comparing **Convolutional Neural Networks (CNNs)** for image recognition tasks using the **CIFAR-100** dataset, which contains 60,000 images across 100 fine-grained object classes. The goal was to build a robust image classification system, evaluate the strengths and limitations of different architectures, **Basic CNN, DenseNet, and EfficientNet**, and use **ensemble learning techniques** to boost overall accuracy and reliability.
 
----
-
 ### **My Role:**  
 I independently designed and executed the entire machine-learning pipeline. This included **data preparation, model training, evaluation**, and **ensemble implementation**, along with conducting a deep analysis of model outputs and performance metrics. I also managed data engineering tasks to ensure high-quality, consistent input for training and testing.
-
----
 
 ### **Key Technical Contributions:**
 
@@ -192,22 +168,15 @@ I independently designed and executed the entire machine-learning pipeline. This
   - Built performance dashboards using Matplotlib and Seaborn to visualize training accuracy, loss curves, per-class accuracy, and confusion matrices.
   - Used insights from these plots to adjust hyperparameters and identify model-specific strengths/weaknesses.
 
----
-
 ### **Impact & Insights:**
 
-- **Improved Classification Reliability:**  
-  Ensemble models significantly **reduced false negatives by 19%**, particularly in visually similar or overlapping categories.
+- **Improved Classification Reliability:**  Ensemble models significantly **reduced false negatives by 19%**, particularly in visually similar or overlapping categories.
 
-- **Architecture Trade-off Analysis:**  
-  - **EfficientNet** offered superior accuracy with minimal computational cost.  
-  - **DenseNet** performed better with underrepresented and noisy classes due to its dense connectivity.
+- **Architecture Trade-off Analysis:** **EfficientNet** offered superior accuracy with minimal computational cost. **DenseNet** performed better with underrepresented and noisy classes due to its dense connectivity.
 
-- **Enhanced Data Quality:**  
-  Proper handling of the raw CIFAR-100 dataset ensured that the training process was smoother and less prone to overfitting, improving model generalizability.
+- **Enhanced Data Quality:** Proper handling of the raw CIFAR-100 dataset ensured that the training process was smoother and less prone to overfitting, improving model generalizability.
 
-- **Real-World Relevance:**  
-  This project demonstrated how deep learning, combined with good data engineering practices, can yield scalable and interpretable solutions for **real-world object classification challenges** in fields like retail, security, or autonomous systems.
+- **Real-World Relevance:** This project demonstrated how deep learning, combined with good data engineering practices, can yield scalable and interpretable solutions for **real-world object classification challenges** in fields like retail, security, or autonomous systems.
 
 ---
 
@@ -215,17 +184,11 @@ I independently designed and executed the entire machine-learning pipeline. This
 📅 **Date:** November 2023  
 🔧 **Tech Stack:** Python, NumPy, Matplotlib, Pandas, Random Search, Simulated Annealing
 
----
-
 ### **Project Overview:**  
 This project focused on optimizing the design of **hydrostatic thrust bearings** used in high-precision mechanical systems. The aim was to minimize **power losses** while maintaining load-bearing capacity, using algorithmic approaches to search for optimal design parameters. By implementing heuristic-based optimisers in Python, the project showcased the real-world impact of **engineering-focused optimization algorithms**.
 
----
-
 ### **My Role:**  
 I led the end-to-end development, including the formulation of the objective function, implementation of constraints, and development of both optimisation algorithms. I also carried out statistical testing to evaluate algorithm performance and visualise convergence behaviour to interpret the effectiveness of each method.
-
----
 
 ### **Key Technical Contributions:**
 
@@ -244,8 +207,6 @@ I led the end-to-end development, including the formulation of the objective fun
 - **Visualisation & Analysis:**
   - Created **box plots** comparing objective values across repetitions using Pandas and Matplotlib.
   - Generated **convergence plots** to show optimisation progression and performance trends.
-
----
 
 ### **Impact & Insights:**
 
