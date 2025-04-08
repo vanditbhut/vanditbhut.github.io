@@ -55,7 +55,6 @@ DA-IICT, India (May 2018 - Jun 2022)
 - Analysed 7 datasets comprising 100,000+ records, uncovering critical business trends that informed stakeholder strategies.
 - Developed presentations that simplified data, resulting in 10+ recommendations and a 30% boost in stakeholder engagement.
 
-
 ### Power BI Job Simulation (Online)  
 **PwC Switzerland** (Jun 2024)  
 - Built and implemented a Power BI dashboard to address HR challenges, improving reporting efficiency by 40%.
@@ -72,17 +71,11 @@ DA-IICT, India (May 2018 - Jun 2022)
 **Date:** December 2024  
 **Tools & Technologies:** SQL, Python (Pandas, NumPy), Power BI, Jupyter Notebook  
 
----
-
 #### 🧠 **Project Overview:**  
 This project aimed to uncover **key consumer behavior patterns and sales trends** on Amazon’s UK marketplace by analyzing a large-scale dataset of over **1 million product listings, customer reviews, and pricing data**. The goal was to transform raw, unstructured, and noisy data into **actionable insights** that could inform marketing, pricing, and product strategies.
 
----
-
 #### 👨‍💻 **My Role:**  
 As the sole data analyst and engineer on the project, I led the end-to-end data pipeline from data extraction and cleaning to analysis and dashboard creation, demonstrating full ownership and technical versatility.
-
----
 
 #### 🛠️ **Key Technical Contributions:**
 
@@ -104,8 +97,6 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
     - 📈 *Top-performing products* by rating and sales
   - Used **slicers, filters, and tooltips** to make the dashboard fully interactive and user-friendly for non-technical stakeholders.
 
----
-
 #### 📊 **Impact & Insights:**
 - Discovered that **mid-range priced products** in different categories had the highest customer satisfaction, while lower-rated products had higher return complaints.
 - Uncovered **seasonal and promotional sales spikes**, with sharp increases during events like Black Friday and Boxing Day.
@@ -121,7 +112,7 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
 ---
 
 ### 🧠 **Project Overview:**  
-This project focused on conducting an in-depth data-driven analysis of the **Marvel Cinematic Universe (MCU)** using a modern cloud-based architecture. Leveraging **Python for data processing** and **AWS services for automation and scalability**, the project aimed to uncover patterns and trends across MCU movies—spanning **release schedules, character dynamics, and creative influences** such as directors and writers. The outcome was a set of visualized insights that contextualized the evolution of one of the most successful film franchises in history.
+This project focused on conducting an in-depth data-driven analysis of the **Marvel Cinematic Universe (MCU)** using a modern cloud-based architecture. Leveraging **Python for data processing** and **AWS services for automation and scalability**, the project aimed to uncover patterns and trends across MCU movies spanning **release schedules, character dynamics, and creative influences** such as directors and writers. The outcome was a set of visualized insights that contextualized the evolution of one of the most successful film franchises in history.
 
 ---
 
@@ -141,11 +132,7 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
   - Used **Pandas** for data manipulation and **group-by techniques** to aggregate metrics across characters and contributors.
 
 - **Visualization & Analysis:**
-  - Built over **7 insightful charts** and trend plots using **Matplotlib** and **Seaborn**, covering:
-    - Character frequency across phases
-    - Movie release timelines
-    - Director/writer contribution trends
-    - Box office success correlation with ensemble casts
+  - Created **7 informative charts** and trend plots using Matplotlib and Seaborn, which include: character frequency across different phases, movie release timelines, and box office success correlation with ensemble casts.
 
 - **Scheduling & Monitoring:**
   - Implemented **cloud automation** via AWS EventBridge to schedule Lambda functions, ensuring regular and reliable updates to the dataset.
@@ -191,7 +178,7 @@ I independently designed and executed the entire machine-learning pipeline. This
 
 - **Data Engineering & Quality Control:**
   - Managed the entire dataset pipeline: from raw image ingestion to preprocessed, training-ready data.
-  - Applied normalization, augmentation, label encoding, and quality control measures—boosting dataset consistency by **20%**.
+  - Applied normalization, augmentation, label encoding, and quality control measures, boosting dataset consistency by **20%**.
     
 - **Model Design & Comparison:**
   - Developed and trained three CNN-based models: a traditional CNN, DenseNet, and EfficientNet.
@@ -243,7 +230,7 @@ I led the end-to-end development, including the formulation of the objective fun
 ### **Key Technical Contributions:**
 
 - **Objective Function & Physical Constraints:**
-  - Designed a **multi-objective cost function** combining inlet pressure and frictional power loss.
+  - Designed a **multi-objective cost function** combining pressure and frictional power loss.
   - Implemented **7 physical constraints** related to load-carrying capacity, pressure, oil temperature, oil film thickness, geometry, and system losses to ensure realistic designs.
 
 - **Optimisation Algorithm Development:**
@@ -263,7 +250,6 @@ I led the end-to-end development, including the formulation of the objective fun
 ### **Impact & Insights:**
 
 - **Simulated Annealing consistently outperformed Random Search**, delivering better solutions with lower objective values and more stable convergence.
-- Statistically significant performance differences (p-value < 0.05) confirmed the **superiority of Simulated Annealing** under the given design constraints.
 - The project highlighted how **metaheuristics can solve complex engineering problems** where analytical solutions are infeasible.
 - Built a strong foundation for applying similar optimisation strategies in broader mechanical or data science applications.
 
