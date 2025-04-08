@@ -132,11 +132,11 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
 
 ### 📊 **Impact & Insights:**
 
-- 📅 **Release Acceleration:** A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
-- 🎭 **Character Popularity & Dynamics:** Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
-- 💰 **Box Office Evolution:** Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
-- 🧑‍🤝‍🧑 **Team-Based Character Clusters:** Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
-- 🧪 **Use Case for Data-Driven Storytelling:** Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
+- A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
+- Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
+- Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
+- Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
+- Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
 
 ---
 
@@ -170,13 +170,11 @@ I independently designed and executed the entire machine-learning pipeline. This
 
 ### **Impact & Insights:**
 
-- **Improved Classification Reliability:**  Ensemble models significantly **reduced false negatives by 19%**, particularly in visually similar or overlapping categories.
-
-- **Architecture Trade-off Analysis:** **EfficientNet** offered superior accuracy with minimal computational cost. **DenseNet** performed better with underrepresented and noisy classes due to its dense connectivity.
-
-- **Enhanced Data Quality:** Proper handling of the raw CIFAR-100 dataset ensured that the training process was smoother and less prone to overfitting, improving model generalizability.
-
-- **Real-World Relevance:** This project demonstrated how deep learning, combined with good data engineering practices, can yield scalable and interpretable solutions for **real-world object classification challenges** in fields like retail, security, or autonomous systems.
+- Ensemble models significantly **reduced false negatives by 19%**, particularly in visually similar or overlapping categories.
+- **EfficientNet** offered superior accuracy with minimal computational cost.
+- **DenseNet** performed better with underrepresented and noisy classes due to its dense connectivity.
+- Proper handling of the raw CIFAR-100 dataset ensured that the training process was smoother and less prone to overfitting, improving model generalizability.
+- This project demonstrated how deep learning, combined with good data engineering practices, can yield scalable and interpretable solutions for **real-world object classification challenges** in fields like retail, security, or autonomous systems.
 
 ---
 
