@@ -149,6 +149,7 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
 
 - **Scheduling & Monitoring:**
   - Implemented **cloud automation** via AWS EventBridge to schedule Lambda functions, ensuring regular and reliable updates to the dataset.
+    
 ---
 
 ### 📊 **Impact & Insights:**
