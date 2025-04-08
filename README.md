@@ -10,7 +10,7 @@ I have experience in collecting, cleaning, and analyzing diverse datasets, devel
 ---
 
 ## Contact Information
-📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
+📍 Swansea, United Kingdom | 📞 +44 739-306-5231 | 📧 vanditbhut12@gmail.com | [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"} | <a href="https://wa.me/447393065231?text=Hello%20Vandit,%20I%20would%20like%20to%20discuss%20a%20data%20science%20opportunity."> WhatsApp </a>
 
 ---
 
@@ -42,6 +42,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 - Gathered and organized over 100 publicly available datasets into a structured system, making them easier to find and reuse.
 - Created clear and consistent metadata for each dataset, which reduced the time needed to locate specific information.
 - Worked closely with developers and analysts to ensure datasets were compatible with internal tools and platforms.
+- Utilized Power BI and other data visualization tools to present insights effectively and support data-driven decision-making.
 
 ### Web Designer Intern  
 **Midnight Digital Pvt. Ltd., India** (Mar 2023 - Jun 2023)  
@@ -69,7 +70,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 ## Project: 1 📦 **UK Amazon Consumer Trends Analysis**  
 
 **Date:** December 2024  
-**Tools & Technologies:** SQL, Python (Pandas, NumPy, NLTK), Power BI, Jupyter Notebook  
+**Tools & Technologies:** SQL, Python (Pandas, NumPy), Power BI, Jupyter Notebook  
 
 ---
 
@@ -79,7 +80,7 @@ This project aimed to uncover **key consumer behavior patterns and sales trends*
 ---
 
 #### 👨‍💻 **My Role:**  
-As the sole data analyst and engineer on the project, I led the end-to-end data pipeline — from data extraction and cleaning to analysis and dashboard creation — demonstrating full ownership and technical versatility.
+As the sole data analyst and engineer on the project, I led the end-to-end data pipeline from data extraction and cleaning to analysis and dashboard creation, demonstrating full ownership and technical versatility.
 
 ---
 
@@ -90,9 +91,9 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
   - Structured the dataset into **relational tables** based on product category, review metadata, and pricing info to improve accessibility and speed during analysis.
   - Ensured **scalability and performance** by indexing key fields and minimizing query load time.
 
-- **Python-based Data Wrangling & Sentiment Analysis:**
-  - Cleaned and standardized messy data using `pandas`, handling missing values, duplicates, and inconsistent text fields.
-  - Applied **Natural Language Processing (NLP)** using the `NLTK` library to conduct sentiment analysis on **hundreds of thousands of customer reviews**, classifying them as positive, neutral, or negative.
+- **Python-based Analysis:**
+  - Cleaned and standardized messy data using pandas, handling missing values, duplicates, and inconsistent text fields.
+  - Calculated sales velocity metrics to identify fast-moving and underperforming products across categories.
   - Created custom **visual plots** (e.g., word clouds, polarity score distributions) to showcase sentiment insights across product categories.
 
 - **Interactive Dashboard (Power BI):**
@@ -106,70 +107,63 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
 ---
 
 #### 📊 **Impact & Insights:**
-- Discovered that **mid-range priced products** in electronics had the highest customer satisfaction, while lower-rated products had higher return complaints.
-- Identified **seasonal sales spikes** in December and July, suggesting strong correlation with promotional periods.
-- The sentiment analysis revealed **delivery speed** and **packaging quality** as the most frequent negative themes in low-rated reviews.
+- Discovered that **mid-range priced products** in different categories had the highest customer satisfaction, while lower-rated products had higher return complaints.
+- Uncovered **seasonal and promotional sales spikes**, with sharp increases during events like Black Friday and Boxing Day.
+- Provided marketing and category teams with a **data-backed dashboard**, enabling quick decision-making and opportunity targeting.
 
 ---
 
+
 ## Project: 2 🎬 **Marvel Movie Universe (MCU) Data Analysis**  
 **Date:** December 2024  
-**Tools & Technologies:** Python (Pandas, Matplotlib, Seaborn), AWS S3, Jupyter Notebook  
+**Tools & Technologies:** Python (Pandas, Matplotlib, Seaborn), AWS S3, AWS Lambda, Jupyter Notebook  
 
 ---
 
 ### 🧠 **Project Overview:**  
-This project explored the evolution of the Marvel Cinematic Universe (MCU) through a **data-driven lens**. Using Python and cloud-hosted data from **Amazon S3**, I analyzed over 30 MCU movies to uncover **release trends**, **box office patterns**, and **character appearances** over time. The objective was to transform raw movie data into **compelling visual stories** that reflect the MCU's cinematic growth and interconnected storytelling.
+This project focused on conducting an in-depth data-driven analysis of the **Marvel Cinematic Universe (MCU)** using a modern cloud-based architecture. Leveraging **Python for data processing** and **AWS services for automation and scalability**, the project aimed to uncover patterns and trends across MCU movies—spanning **release schedules, character dynamics, and creative influences** such as directors and writers. The outcome was a set of visualized insights that contextualized the evolution of one of the most successful film franchises in history.
 
 ---
 
 ### 👨‍💻 **My Role:**  
-As the sole analyst and developer, I led the **end-to-end data pipeline** — from automated data retrieval and transformation to visualization and storytelling — showcasing full-stack data analysis skills and cloud integration.
+As the sole analyst and developer, I led the **end-to-end data pipeline** from automated data retrieval and transformation to visualization and storytelling, showcasing full-stack data analysis skills and cloud integration.
 
 ---
 
 ### 🛠️ **Key Technical Contributions:**
 
-- **Cloud-based Data Acquisition (AWS S3):**
-  - Programmatically connected to **AWS S3** to retrieve multiple movie-related datasets, including:
-    - Movie metadata (titles, release dates, durations)
-    - Cast and character lists
-    - Box office and rating statistics
-  - Automated the download and parsing of CSV files using `boto3`, eliminating manual steps.
+- **Cloud-based Data Pipeline:**
+  - Created an **automated data retrieval system** using **AWS Lambda** functions triggered by **EventBridge** to extract and update MCU data from online sources.
+  - Stored and version-controlled raw and processed datasets using **AWS S3** to ensure availability and scalability.
 
-- **Python Data Processing:**
-  - Cleaned and merged 3 distinct datasets using `pandas`, handling:
-    - Date parsing (e.g., release years, timelines)
-    - String normalization (e.g., character aliases, movie titles)
-    - Missing value treatment for box office stats
-  - Engineered new features such as:
-    - Year-wise cumulative movie count
-    - Top recurring characters and their screen appearances
-    - Phase classification (MCU Phase 1–4)
+- **Data Processing & Enrichment:**
+  - Cleaned and structured data on 30+ MCU movies, including metadata such as release year, phase, directors, writers, box office performance, and character appearances.
+  - Used **Pandas** for data manipulation and **group-by techniques** to aggregate metrics across characters and contributors.
 
-- **Visualization & Storytelling:**
-  - Created **7+ interactive and static charts** using `Matplotlib` and `Seaborn`:
-    - 🎞️ Timeline of MCU movie releases by phase
-    - 🎭 Heatmap of character appearances across movies
-    - 📈 Line chart of box office growth over time
-    - 🧑‍🤝‍🧑 Bar chart of most-featured characters
-  - Focused on readability and insight-driven layout to support stakeholder storytelling.
+- **Visualization & Analysis:**
+  - Built over **7 insightful charts** and trend plots using **Matplotlib** and **Seaborn**, covering:
+    - Character frequency across phases
+    - Movie release timelines
+    - Director/writer contribution trends
+    - Box office success correlation with ensemble casts
 
+- **Scheduling & Monitoring:**
+  - Implemented **cloud automation** via AWS EventBridge to schedule Lambda functions, ensuring regular and reliable updates to the dataset.
 ---
 
 ### 📊 **Impact & Insights:**
 
 - 📅 **Release Acceleration:**  
-  Identified a clear trend of **increasing release frequency** post-2015, especially in **Phase 3**, signaling Marvel's strategy to deepen audience engagement and expand the cinematic universe faster.
+  A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
 
 - 🎭 **Character Popularity & Dynamics:**  
-  Discovered that **Iron Man, Captain America, and Black Widow** were the most prominently featured characters, not only in terms of screen time but also in cross-over appearances — highlighting their roles as narrative anchors in the MCU.
+  Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
 
 - 💰 **Box Office Evolution:**  
-  Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies (e.g., *Avengers: Endgame*), proving the effectiveness of Marvel’s long-form storytelling and phased releases.
+  Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
 
 - 🧑‍🤝‍🧑 **Team-Based Character Clusters:**  
-  Heatmaps of character appearances showed strong **group dynamics**, such as Avengers vs. Guardians, with occasional crossovers. These insights could inform **future marketing strategies or storytelling directions** for franchise expansions.
+  Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
 
 - 🧪 **Use Case for Data-Driven Storytelling:**  
   Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
@@ -183,47 +177,55 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** — fr
 ---
 
 ### **Project Overview:**  
-This project focused on comparing multiple deep learning architectures—EfficientNet, DenseNet, and a traditional CNN—on the CIFAR-100 dataset to evaluate their performance in object classification. The goal was to identify the most efficient and accurate model, reduce classification errors, and enhance prediction reliability through ensemble methods and robust data engineering practices.
+As part of my MSc in Data Science, this project focused on applying and comparing **Convolutional Neural Networks (CNNs)** for image recognition tasks using the **CIFAR-100** dataset, which contains 60,000 images across 100 fine-grained object classes. The goal was to build a robust image classification system, evaluate the strengths and limitations of different architectures, **Basic CNN, DenseNet, and EfficientNet**, and use **ensemble learning techniques** to boost overall accuracy and reliability.
 
 ---
 
 ### **My Role:**  
-I independently led the entire project pipeline, from dataset preparation and model implementation to evaluation and ensemble design. I also handled all data engineering tasks and generated visual insights to interpret model performance.
+I independently designed and executed the entire machine-learning pipeline. This included **data preparation, model training, evaluation**, and **ensemble implementation**, along with conducting a deep analysis of model outputs and performance metrics. I also managed data engineering tasks to ensure high-quality, consistent input for training and testing.
 
 ---
 
 ### **Key Technical Contributions:**
 
-- **Model Implementation & Evaluation:**
-  - Built and trained EfficientNet, DenseNet, and a baseline CNN model on the CIFAR-100 dataset.
-  - Compared model performance using key evaluation metrics like accuracy, precision, recall, and F1-score.
+- **Data Engineering & Quality Control:**
+  - Managed the entire dataset pipeline: from raw image ingestion to preprocessed, training-ready data.
+  - Applied normalization, augmentation, label encoding, and quality control measures—boosting dataset consistency by **20%**.
+    
+- **Model Design & Comparison:**
+  - Developed and trained three CNN-based models: a traditional CNN, DenseNet, and EfficientNet.
+  - Compared their effectiveness in classifying complex images using evaluation metrics like accuracy, precision, recall, and F1-score.
 
-- **Ensemble Learning:**
-  - Applied **Majority Voting** and **Weighted Majority Voting** techniques to improve overall prediction accuracy.
-  - Ensemble strategy helped reach over **80% accuracy**, significantly reducing false negatives.
+- **Ensemble Strategy:**
+  - Integrated **Majority Voting** and **Weighted Majority Voting** techniques to aggregate predictions across models.
+  - This ensemble method improved classification stability and achieved a final accuracy of **over 80%**.
 
-- **Data Engineering & Preprocessing:**
-  - Preprocessed 60,000+ image samples: resizing, normalization, label encoding, and augmentation.
-  - Enhanced dataset quality by **20%** through noise reduction and class balancing, improving training efficiency.
-
-- **Visualization & Reporting:**
-  - Used `Matplotlib` and `Seaborn` to create training plots, confusion matrices, and per-class accuracy charts.
-  - Interpreted model behavior and highlighted key trends across experiments.
+- **Performance Monitoring & Visualization:**
+  - Built performance dashboards using Matplotlib and Seaborn to visualize training accuracy, loss curves, per-class accuracy, and confusion matrices.
+  - Used insights from these plots to adjust hyperparameters and identify model-specific strengths/weaknesses.
 
 ---
 
 ### **Impact & Insights:**
 
-- Ensemble methods improved classification reliability, especially for **visually similar classes**, reducing false negatives by **up to 19%**.
-- EfficientNet achieved the highest single-model accuracy, while DenseNet showed better performance for minority and underrepresented classes.
-- Data enhancements directly contributed to more stable training and clearer class boundaries, enabling deeper analysis and higher confidence in results.
-- The project laid the foundation for scalable experimentation with CNNs and ensemble methods, applicable in real-world object recognition problems.
+- **Improved Classification Reliability:**  
+  Ensemble models significantly **reduced false negatives by 19%**, particularly in visually similar or overlapping categories.
+
+- **Architecture Trade-off Analysis:**  
+  - **EfficientNet** offered superior accuracy with minimal computational cost.  
+  - **DenseNet** performed better with underrepresented and noisy classes due to its dense connectivity.
+
+- **Enhanced Data Quality:**  
+  Proper handling of the raw CIFAR-100 dataset ensured that the training process was smoother and less prone to overfitting, improving model generalizability.
+
+- **Real-World Relevance:**  
+  This project demonstrated how deep learning, combined with good data engineering practices, can yield scalable and interpretable solutions for **real-world object classification challenges** in fields like retail, security, or autonomous systems.
 
 ---
 
 ## Project: 4 ⚙️ **Optimisers | Swansea University**  
 📅 **Date:** November 2023  
-🔧 **Tech Stack:** Python, NumPy, Matplotlib, Random Search, Simulated Annealing
+🔧 **Tech Stack:** Python, NumPy, Matplotlib, Pandas, Random Search, Simulated Annealing
 
 ---
 
@@ -233,35 +235,36 @@ This project focused on optimizing the design of **hydrostatic thrust bearings**
 ---
 
 ### **My Role:**  
-I designed, developed, and evaluated two metaheuristic optimisation algorithms — **Random Search** and **Simulated Annealing** — to optimize a complex multi-variable function governing bearing efficiency. I also visualized convergence behaviors and interpreted performance improvements across algorithmic runs.
+I led the end-to-end development, including the formulation of the objective function, implementation of constraints, and development of both optimisation algorithms. I also carried out statistical testing to evaluate algorithm performance and visualise convergence behaviour to interpret the effectiveness of each method.
 
 ---
 
 ### **Key Technical Contributions:**
 
-- **Algorithm Design & Implementation:**
-  - Built custom Python implementations of **Random Search** and **Simulated Annealing** tailored to the problem of energy loss in hydrostatic bearings.
-  - Encoded physical constraints of the bearing system (e.g., geometry, pressure, viscosity) directly into the cost function.
+- **Objective Function & Physical Constraints:**
+  - Designed a **multi-objective cost function** combining inlet pressure and frictional power loss.
+  - Implemented **7 physical constraints** related to load-carrying capacity, pressure, oil temperature, oil film thickness, geometry, and system losses to ensure realistic designs.
 
-- **Objective Function & Constraints:**
-  - Designed a multi-objective fitness function to simulate **power loss, load support, and oil flow rates**, allowing for accurate comparison of candidate solutions.
-  - Applied boundary checks and rejection conditions to maintain valid design configurations.
+- **Optimisation Algorithm Development:**
+  - Developed custom implementations of **Random Search** and **Simulated Annealing**, including penalty-based constraint handling.
+  - Encoded **cooling schedules**, **acceptance probabilities**, and **parameter neighborhoods** to improve exploration during optimisation.
 
-- **Parameter Tuning & Testing:**
-  - Conducted experiments with various cooling schedules and neighborhood sizes for Simulated Annealing to prevent premature convergence.
-  - Compared performance across multiple runs and random seeds to validate robustness.
+- **Robustness Testing & Statistical Validation:**
+  - Ran **21 independent experiments** per algorithm to assess reliability across different random seeds.
+  - Conducted **paired t-tests** to assess statistical significance of performance differences between the two methods.
 
-- **Visualization & Convergence Analysis:**
-  - Generated convergence plots and parameter vs. performance graphs to visually demonstrate optimisation progress and final solution stability.
+- **Visualisation & Analysis:**
+  - Created **box plots** comparing objective values across repetitions using Pandas and Matplotlib.
+  - Generated **convergence plots** to show optimisation progression and performance trends.
 
 ---
 
 ### **Impact & Insights:**
 
-- Successfully reduced power loss in the bearing system by **53%**, demonstrating the effectiveness of heuristic search methods over manual tuning or grid search approaches.
-- Simulated Annealing outperformed Random Search in finding globally optimal configurations within fewer iterations, highlighting its strength in **exploring rugged solution landscapes**.
-- Reinforced the practical value of optimisation techniques in engineering domains, especially where analytical solutions are difficult or infeasible.
-- The project served as a hands-on application of **AI-inspired algorithms** in mechanical design, bridging the gap between data science and engineering optimization.
+- **Simulated Annealing consistently outperformed Random Search**, delivering better solutions with lower objective values and more stable convergence.
+- Statistically significant performance differences (p-value < 0.05) confirmed the **superiority of Simulated Annealing** under the given design constraints.
+- The project highlighted how **metaheuristics can solve complex engineering problems** where analytical solutions are infeasible.
+- Built a strong foundation for applying similar optimisation strategies in broader mechanical or data science applications.
 
 ---
 
@@ -272,15 +275,6 @@ I designed, developed, and evaluated two metaheuristic optimisation algorithms �
 
 ---
 
-## 🔗 Contact & Social Links
-- [LinkedIn](https://www.linkedin.com/in/vandit-bhut/){:target="_blank"}
-- Email: vanditbhut12@gmail.com  
-- Phone: +44 739-306-5231
-- If you'd like to reach out to me, feel free to message me on <a href="https://wa.me/447393065231?text=Hello%20Vandit,%20I%20would%20like%20to%20discuss%20a%20data%20science%20opportunity."> WhatsApp </a>
-
-
----
-
 ## Looking Ahead
 I am currently seeking a data science role where I can apply my technical expertise and analytical skills to address complex business challenges. I am excited to continue learning, growing, and contributing to data-driven projects that drive impactful results.
 
@@ -288,7 +282,3 @@ I am currently seeking a data science role where I can apply my technical expert
 
 ## 🚀 Get in Touch  
 Feel free to reach out to me via my contact details above to discuss potential opportunities or collaborations. Thank you for visiting my portfolio!
-
-
-
-
