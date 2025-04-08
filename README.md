@@ -1,11 +1,11 @@
 # Vandit Bhut
 
-Welcome to my portfolio! I am a Data Science graduate with a master's degree from Swansea University, specializing in Data analysis, Machine learning, and Data engineering. I am passionate about transforming raw data into actionable insights and leveraging technical expertise to solve complex business challenges. Below is a summary of my skills, experience, and projects. 
+<div align="justify"> Welcome to my portfolio! I am a Data Science graduate with a master's degree from Swansea University, specializing in Data analysis, Machine learning, and Data engineering. I am passionate about transforming raw data into actionable insights and leveraging technical expertise to solve complex business challenges. Below is a summary of my skills, experience, and projects. <div>
 
 ---
 
 ## About Me
-I have experience in collecting, cleaning, and analyzing diverse datasets, developing predictive models, and building data visualizations for data-informed decision-making. I am proficient in Python, SQL, Power BI, and AWS, with hands-on experience in optimizing workflows and implementing ETL pipelines. 
+<div align="justify"> I have experience in collecting, cleaning, and analyzing diverse datasets, developing predictive models, and building data visualizations for data-informed decision-making. I am proficient in Python, SQL, Power BI, and AWS, with hands-on experience in optimizing workflows and implementing ETL pipelines. <div>
 
 ---
 
@@ -26,7 +26,7 @@ DA-IICT, India (May 2018 - Jun 2022)
 
 ## 🛠️ Skills
 **Technical Skills**  
-- **Programming Languages**: Python, SQL (MySQL, PostgreSQL), C, C++, HTML, CSS, JavaScript (Basic)  
+- **Programming Languages**: Python, SQL (MySQL, PostgreSQL), C, C++, HTML, CSS, JavaScript (Basic) 
 - **Data Tools**: Power BI, AWS (S3, Lambda), MongoDB, Jupyter Notebook, Google Colab, GitHub  
 - **Data Engineering**: ETL pipelines, data cleaning, optimization  
 - **Frameworks**: Machine Learning (Scikit-learn, TensorFlow), Data Visualization (Matplotlib, Seaborn)  
@@ -39,27 +39,27 @@ DA-IICT, India (May 2018 - Jun 2022)
 
 ### Junior Data Acquisition & Curation Scientist  
 **Opendatabay, UK** (Oct 2024 - Present)  
-- Gathered and organized over 100 publicly available datasets into a structured system, making them easier to find and reuse.
-- Created clear and consistent metadata for each dataset, which reduced the time needed to locate specific information.
-- Worked closely with developers and analysts to ensure datasets were compatible with internal tools and platforms.
-- Utilized Power BI and other data visualization tools to present insights effectively and support data-driven decision-making.
+- <div align="justify"> Gathered and organized over 100 publicly available datasets into a structured system, making them easier to find and reuse.<div>
+- <div align="justify"> Created clear and consistent metadata for each dataset, which reduced the time needed to locate specific information.<div>
+- <div align="justify"> Worked closely with developers and analysts to ensure datasets were compatible with internal tools and platforms.<div>
+- <div align="justify"> Utilized Power BI and other data visualization tools to present insights effectively and support data-driven decision-making.<div>
 
 ### Web Designer Intern  
 **Midnight Digital Pvt. Ltd., India** (Mar 2023 - Jun 2023)  
-- Improved loading speed and performance on 10+ client websites by cleaning up code and optimizing assets.
-- Delivered web design projects for clients like ENpower School and IFT, following specific brand and content requirements.
-- Supported junior team members by reviewing their work and sharing basic design and coding techniques.
+- <div align="justify"> Improved loading speed and performance on 10+ client websites by cleaning up code and optimizing assets.<div>
+- <div align="justify"> Delivered web design projects for clients like ENpower School and IFT, following specific brand and content requirements.<div>
+- <div align="justify"> Supported junior team members by reviewing their work and sharing basic design and coding techniques.<div>
 
 ### Data Analytics Job Simulation (Online)  
 **Accenture North America** (Jun 2024)  
-- Analysed 7 datasets comprising 100,000+ records, uncovering critical business trends that informed stakeholder strategies.
-- Developed presentations that simplified data, resulting in 10+ recommendations and a 30% boost in stakeholder engagement.
+- <div align="justify"> Analysed 7 datasets comprising 100,000+ records, uncovering critical business trends that informed stakeholder strategies.<div>
+- <div align="justify"> Developed presentations that simplified data, resulting in 10+ recommendations and a 30% boost in stakeholder engagement.<div>
 
 ### Power BI Job Simulation (Online)  
 **PwC Switzerland** (Jun 2024)  
-- Built and implemented a Power BI dashboard to address HR challenges, improving reporting efficiency by 40%.
-- Utilized filters, visuals, and calculated fields with DAX across 3 fields to create an easy-to-use and informative dashboard.
-- Delivered comprehensive insights that supported data-driven decision-making and actionable business improvements.
+- <div align="justify">Built and implemented a Power BI dashboard to address HR challenges, improving reporting efficiency by 40%.<div> 
+- <div align="justify"> Utilized filters, visuals, and calculated fields with DAX across 3 fields to create an easy-to-use and informative dashboard.<div>
+- <div align="justify"> Delivered comprehensive insights that supported data-driven decision-making and actionable business improvements.<div>
 
 ---
 
