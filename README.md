@@ -178,7 +178,7 @@ I independently designed and executed the entire machine-learning pipeline. This
 
 ---
 
-## Project: 4 ⚙️ ** Hydrostatic Bearing Optimisation  | Swansea University**  
+## Project: 4 ⚙️ **Hydrostatic Bearing Optimisation  | Swansea University**  
 📅 **Date:** November 2023  
 🔧 **Tech Stack:** Python, NumPy, Matplotlib, Pandas, Random Search, Simulated Annealing
 
