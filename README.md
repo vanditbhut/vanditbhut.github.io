@@ -84,23 +84,23 @@ As the sole data analyst and engineer on the project, I led the end-to-end data 
   - Structured the dataset into **relational tables** based on product category, review metadata, and pricing info to improve accessibility and speed during analysis.
   - Ensured **scalability and performance** by indexing key fields and minimizing query load time.
 
-- **Python-based Analysis:**
-  - Cleaned and standardized messy data using pandas, handling missing values, duplicates, and inconsistent text fields.
-  - Calculated sales velocity metrics to identify fast-moving and underperforming products across categories.
-  - Created custom **visual plots** (e.g., word clouds, polarity score distributions) to showcase sentiment insights across product categories.
+- **Data Cleaning & Analysis (Python & Excel)**
+  - Cleaned messy datasets in Excel, addressing missing values, duplicates, and inconsistent fields.
+  - Calculated sales velocity metrics to identify **fast-moving and underperforming products across categories**.
+  - Created custom **visual plots** to showcase sentiment insights across product categories.
 
 - **Interactive Dashboard (Power BI):**
   - Built a **multi-page Power BI dashboard** to visualize:
-    - 🛍️ *Sales trends* over time by product category
-    - 💸 *Price distribution* across categories and brands
-    - 😃 *Customer sentiment patterns* using review data
+    - 💸 *Price distribution* across categories
+    - 😃 *Customer satisfaction patterns* using review data
     - 📈 *Top-performing products* by rating and sales
-  - Used **slicers, filters, and tooltips** to make the dashboard fully interactive and user-friendly for non-technical stakeholders.
+  - Make the dashboard fully interactive and user-friendly for non-technical stakeholders.
 
 #### 📊 **Impact & Insights:**
-- Discovered that **mid-range priced products** in different categories had the highest customer satisfaction, while lower-rated products had higher return complaints.
-- Uncovered **seasonal and promotional sales spikes**, with sharp increases during events like Black Friday and Boxing Day.
-- Provided marketing and category teams with a **data-backed dashboard**, enabling quick decision-making and opportunity targeting.
+- **Lower-priced products** consistently achieved **higher customer satisfaction** and **greater popularity** across multiple categories.
+- Popular categories for products **priced low** include Pet Supplies, Skin Care, Storage & Organization, and Hardware.
+- The most sought-after categories for products **priced high** are Fragrances, PC & Video Games, and Small Kitchen Appliances.
+- Found that **average prices of best-selling products** were **lower** than those of non-selling products
 
 ---
 
