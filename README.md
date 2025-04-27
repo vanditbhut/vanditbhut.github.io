@@ -132,11 +132,10 @@ As the sole analyst and developer, I led the **end-to-end data pipeline** from a
 
 ### 📊 **Impact & Insights:**
 
-- A clear trend of **increasing release frequency** over recent years reflects Marvel’s strategic push to **deepen audience engagement** and **rapidly expand the MCU**, capitalizing on momentum and market demand.
-- Analysis shows that certain characters dominate not only in **screen time** but also in **cross-over appearances**, solidifying their roles as **central pillars** in the MCU’s evolving storyline.
-- Analysis revealed a consistent **increase in box office revenue** with each phase, peaking during ensemble movies, proving the effectiveness of Marvel’s long-form storytelling and phased releases.
-- Character clusters consistently appear in team formations with **strategic crossovers**, revealing strong group dynamics that could inform **future narrative arcs and marketing campaigns**.
-- Demonstrated how a pop culture dataset can be transformed into **insightful narratives** using data science, emphasizing the power of combining **data engineering, visualization, and communication**.
+- The Marvel Cinematic Universe (MCU) has experienced significant growth in terms of movie releases per year, particularly after the establishment of distinct phases. This suggests an increasing demand and popularity of the franchise.
+- Certain characters, such as Iron Man and Captain America, demonstrate high prominence across multiple phases, indicating their central roles and enduring appeal to audiences.
+- Directors like Joss Whedon and the Russo brothers have directed multiple successful MCU films, suggesting their influence on the franchise's creative direction and audience reception.
+- The distribution of movies across phases highlights a strategic approach to storytelling, with each phase building upon previous narratives and introducing new characters and storylines.
 
 ---
 
